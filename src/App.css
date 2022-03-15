@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+.a{
+  
+  justify-content: center;
+  padding: 50px;
+  padding-left: 150px;
+  box-sizing: border-box;
+  border: 2px solid;
+  width: 500px;
+  height: 350px;
+  margin-left: 500px;
+  margin-top: 100px;
+  margin-right: 500px;
+  margin-bottom: 200px;
+  color: blue;
+  background-color: aquamarine;
+  
+}
+
+.b{
+  justify-content: center;
+  font-weight:bolder;
+  font-style: oblique;
+    
+  color: rgba(94, 9, 231, 0.993)
+    
+}
+
